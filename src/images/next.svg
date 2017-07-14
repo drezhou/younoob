@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100%" height="100%" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" fill="#FFFFFF">
+            <g id="1495049613_LastPage" transform="translate(16.000000, 15.000000)">
+                <g id="Слой_1">
+                    <g id="Last_Page">
+                        <path d="M1.822,0.302 C1.431,-0.092 0.798,-0.092 0.408,0.302 C0.017,0.696 0.017,1.334 0.408,1.728 L8.601,10 L0.408,18.272 C0.017,18.666 0.017,19.304 0.408,19.698 C0.799,20.092 1.432,20.092 1.822,19.698 L10.721,10.713 C10.936,10.498 11.022,10.221 11,9.926 C10.983,9.697 10.885,9.451 10.721,9.286 L1.822,0.302 L1.822,0.302 Z" id="Shape"></path>
+                        <path d="M15.016,0.003 C14.464,0.003 14.016,0.451 14.016,1.003 L14.016,18.972 C14.016,19.524 14.464,19.972 15.016,19.972 C15.568,19.972 16.016,19.524 16.016,18.972 L16.016,1.003 C16.016,0.451 15.568,0.003 15.016,0.003 L15.016,0.003 Z" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

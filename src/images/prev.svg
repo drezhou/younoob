@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100%" height="100%" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-3" fill="#FFFFFF">
+            <g id="1495049671_FirstPage" transform="translate(17.000000, 14.000000)">
+                <g id="Слой_1">
+                    <g id="First_Page">
+                        <path d="M7.413,11.003 L15.606,2.718 C15.997,2.323 15.997,1.684 15.606,1.289 C15.215,0.895 14.582,0.895 14.192,1.289 L5.292,10.288 C4.907,10.676 4.914,11.334 5.292,11.716 L14.192,20.715 C14.583,21.109 15.216,21.109 15.606,20.715 C15.996,20.321 15.997,19.681 15.606,19.287 L7.413,11.003 L7.413,11.003 Z" id="Shape"></path>
+                        <path d="M1,0.988 C0.448,0.988 0,1.436 0,1.988 L0,19.988 C0,20.54 0.448,20.988 1,20.988 C1.552,20.988 2,20.54 2,19.988 L2,1.988 C2,1.435 1.552,0.988 1,0.988 L1,0.988 Z" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
